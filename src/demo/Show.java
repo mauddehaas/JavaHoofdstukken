@@ -31,13 +31,14 @@ public class Show extends Applet {
             g.drawString("Maud!!", 50, 60);
         g.drawString("de Haas!", 50, 71 );
       */
+      
         g.setColor(Color.red);
         int[] xPoints = {100,40,150};
         int[] yPoints = {150,200,200};
         g.drawPolygon(xPoints, yPoints, 3);
         g.fillPolygon(xPoints, yPoints, 3);
 
-        g.setColor(Color.green);
+        g.setColor(Color.pink);
         g.fillRect(40,200, 110, 100);
         g.drawRect(40,200, 110, 100);
 
@@ -48,6 +49,8 @@ public class Show extends Applet {
         g.setColor(Color.yellow);
         g.fillRect(50,250,20,60);
         g.drawRect(50,250,20,60);
+
+
     }
 
 
