@@ -11,8 +11,16 @@ public class figuren extends Applet {
 
         public void paint(Graphics g) {
 
+
+            //Lijn
             g.setColor(Color.black);
-            g.drawString(100,100,100,);
+            g.drawLine(100,100,300,100);
+            g.drawString("Lijn",200,112);
+
+            //Rechthoek
+            g.drawRect(100,120,200,100);
+            g.drawString("Rechthoek", 185,230);
+
 
         }
 }
