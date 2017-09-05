@@ -13,7 +13,7 @@ g.setColor(Color. black);
         g.drawRoundRect(100,100,100,210,100,100);
         g.fillRoundRect(100,100,100,210,100,100);
 
-        //lichten
+        // de lichten
         //rood
         g.setColor(Color. red);
         g.fillOval(125, 120,50,50);
