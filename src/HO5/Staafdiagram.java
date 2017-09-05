@@ -13,21 +13,21 @@ import java.awt.*;
 
 
         public void init() {
-
+            nulpunt=250;
             //valerie
-            hoogteValerie= 500;
-            yas_Valerie=nulpunt-hoogteValerie;
+            hoogteValerie= 10;
+            yas_Valerie=nulpunt-hoogteValerie*2;
 
             //jeroen
-            hoogtejeroen= 100;
-            yas_jeroen=nulpunt-hoogtejeroen;
+            hoogtejeroen= 20;
+            yas_jeroen=nulpunt-hoogtejeroen*2;
 
             //hans
-            hoogteHans=100;
-            yas_Hans=nulpunt-hoogteHans;
+            hoogteHans=60;
+            yas_Hans=nulpunt-hoogteHans*2;
 
 
-            nulpunt=250;
+
 
 
 
@@ -56,22 +56,22 @@ import java.awt.*;
             g.setColor(Color.black);
             g.drawString("Valerie", 50, 270);
             g.setColor(Color.blue);
-            g.drawRect(50, yas_Valerie, 50, hoogteValerie);
-            g.fillRect(50, yas_Valerie, 50, hoogteValerie);
+            g.drawRect(50, yas_Valerie, 50, hoogteValerie*2);
+            g.fillRect(50, yas_Valerie, 50, hoogteValerie*2);
 
             //Hans 80
             g.setColor(Color.black);
             g.drawString("Hans", 110, 270);
             g.setColor(Color.red);
-            g.drawRect(100, yas_Hans, 50, hoogteHans);
-            g.fillRect(100, yas_Hans, 50, hoogteHans);
+            g.drawRect(100, yas_Hans, 50, hoogteHans*2);
+            g.fillRect(100, yas_Hans, 50, hoogteHans*2);
 
             //jeroen 100
             g.setColor(Color.black);
             g.drawString("jeroen", 170, 270);
             g.setColor(Color.yellow);
-            g.drawRect(150, yas_jeroen, 50, hoogtejeroen);
-            g.fillRect(150, yas_jeroen, 50, hoogtejeroen);
+            g.drawRect(150, yas_jeroen, 50, hoogtejeroen*2);
+            g.fillRect(150, yas_jeroen, 50, hoogtejeroen*2);
 
             //x- en y-as
             g.setColor(Color.black);
