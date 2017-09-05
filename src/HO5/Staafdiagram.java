@@ -5,11 +5,37 @@ import java.awt.*;
 
 
     public class Staafdiagram extends Applet {
-        int hoogte;
-        int
+        int hoogtejeroen;
+        int hoogteValerie;
+        int hoogteHans;
+        int nulpunt, yas_Valerie, yas_Hans, yas_jeroen;
+
 
 
         public void init() {
+
+            //valerie
+            hoogteValerie= 500;
+            yas_Valerie=nulpunt-hoogteValerie;
+
+            //jeroen
+            hoogtejeroen= 100;
+            yas_jeroen=nulpunt-hoogtejeroen;
+
+            //hans
+            hoogteHans=100;
+            yas_Hans=nulpunt-hoogteHans;
+
+
+            nulpunt=250;
+
+
+
+
+
+
+
+
         }
 
         public void paint(Graphics g) {
@@ -30,22 +56,22 @@ import java.awt.*;
             g.setColor(Color.black);
             g.drawString("Valerie", 50, 270);
             g.setColor(Color.blue);
-            g.drawRect(50, 170, 50, 80);
-            g.fillRect(50, 170, 50, 80);
+            g.drawRect(50, yas_Valerie, 50, hoogteValerie);
+            g.fillRect(50, yas_Valerie, 50, hoogteValerie);
 
             //Hans 80
             g.setColor(Color.black);
             g.drawString("Hans", 110, 270);
             g.setColor(Color.red);
-            g.drawRect(100, 100, 50, 150);
-            g.fillRect(100, 100, 50, 150);
+            g.drawRect(100, yas_Hans, 50, hoogteHans);
+            g.fillRect(100, yas_Hans, 50, hoogteHans);
 
             //jeroen 100
             g.setColor(Color.black);
             g.drawString("jeroen", 170, 270);
             g.setColor(Color.yellow);
-            g.drawRect(150, 50, 50, 200);
-            g.fillRect(150, 50, 50, 200);
+            g.drawRect(150, yas_jeroen, 50, hoogtejeroen);
+            g.fillRect(150, yas_jeroen, 50, hoogtejeroen);
 
             //x- en y-as
             g.setColor(Color.black);
