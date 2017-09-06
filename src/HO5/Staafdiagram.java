@@ -15,7 +15,7 @@ import java.awt.*;
         public void init() {
             nulpunt=250;
             //valerie
-            hoogteValerie= 10;
+            hoogteValerie= 60;
             yas_Valerie=nulpunt-hoogteValerie*2;
 
             //jeroen
