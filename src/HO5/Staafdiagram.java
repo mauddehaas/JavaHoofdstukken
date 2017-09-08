@@ -15,11 +15,11 @@ import java.awt.*;
         public void init() {
             nulpunt=250;
             //valerie
-            hoogteValerie= 60;
+            hoogteValerie= 100;
             yas_Valerie=nulpunt-hoogteValerie*2;
 
             //jeroen
-            hoogtejeroen= 20;
+            hoogtejeroen= 10;
             yas_jeroen=nulpunt-hoogtejeroen*2;
 
             //hans

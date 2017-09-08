@@ -3,7 +3,7 @@ package HO1234;
 import java.awt.*;
 import java.applet.*;
 
-public class Rectdriehuis extends Applet{
+public class RechthoekHuisVlag extends Applet{
 
     public void init() {
 
