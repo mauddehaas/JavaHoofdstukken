@@ -11,7 +11,7 @@ public class Berekenen extends Applet {
 
 
     public void init (){
-        prijsontvangst=(113/4);
+        prijsontvangst=113.0/4;
         prijsali= prijsontvangst;
         prijsjan= prijsontvangst;
         prijsjeannette= prijsontvangst;
