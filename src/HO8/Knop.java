@@ -1,34 +1,53 @@
 package HO8;
 
+
 import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
 
+
 public class Knop extends Applet {
     TextField tekstvak;
-    Button knop;
     Label label;
+    Button knop1;
+    Button knop2;
+    String s;
+
 
     public void init() {
-        tekstvak = new TextField("", 30);
+        tekstvak = new TextField("", 20);
         label = new Label("Type iets in het  tekstvakje");
-        knop = new Button("Ok");
-        KnopListener kl = new KnopListener();
-        knop.addActionListener(kl);
-        knop.addActionListener(new KnopListener());
-        add(tekstvak);
-        add(knop);
         add(label);
+        add(tekstvak);
+        knop1 = new Button();
+        knop1.addActionListener(new Knop1Listener());
+        knop1.setLabel("OK");
+        add(knop1);
+        s = "";
+
+        knop2 = new Button("Reset");
+        add(knop2);
+        knop2.addActionListener(new Knop2Listener());
+
     }
 
-    public void paint(Graphics g) {}
+    public void paint(Graphics g) {
+
+        g.drawString(s, 50, 80);
+
+    }
 
 
-    class KnopListener implements ActionListener {
+    class Knop1Listener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
+           s = tekstvak.getText();
+           repaint();
+        }
+    }
 
-            repaint();
+    class Knop2Listener implements ActionListener {
+        public void actionPerformed(ActionEvent e) {
+            tekstvak.setText("");
         }
     }
 }
-
