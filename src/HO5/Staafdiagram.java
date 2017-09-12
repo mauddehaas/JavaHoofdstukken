@@ -23,7 +23,7 @@ import java.awt.*;
             yas_jeroen=nulpunt-hoogtejeroen*2;
 
             //hans
-            hoogteHans=60;
+            hoogteHans=80;
             yas_Hans=nulpunt-hoogteHans*2;
 
 
