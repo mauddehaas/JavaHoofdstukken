@@ -40,6 +40,8 @@ public class MannenVrouwen extends Applet {
     }
 
     public void paint(Graphics g) {
+
+
         g.drawString("Aantal mannen:"+Aantalmannen,20,200);
         g.drawString("Aantal vrouwen: "+Aantalvrouwen,20,220);
         g.drawString("Aantal potentiëlemannelijke leerlingen:"+Aantalpotentiëlemannen,20,240);
