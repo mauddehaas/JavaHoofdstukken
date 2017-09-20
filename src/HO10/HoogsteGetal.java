@@ -13,8 +13,8 @@ public class HoogsteGetal extends Applet{
 
     public void init (){
 
-        tekstvak1=new TextField("");
-        tekstvak2=new TextField("");
+        tekstvak1=new TextField("",20);
+        tekstvak2=new TextField("",20);
         tekstvak1.addActionListener( new TekstvakListener());
         tekstvak2.addActionListener(new TekstvakListener());
         label=new Label("typ 2 cijfers en druk op enter");
@@ -43,18 +43,6 @@ public class HoogsteGetal extends Applet{
                     antwoord = uitkomst2;
                 }
                 repaint();
-
-
-
-
-
-
-
-        }
-
-    }
-    class TekstvakListener2 implements  ActionListener{
-        public void actionPerformed(ActionEvent e) {
         }
 
     }

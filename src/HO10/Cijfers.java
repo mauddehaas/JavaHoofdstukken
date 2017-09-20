@@ -9,7 +9,7 @@ public class Cijfers extends Applet{
     Label label;
     double gemiddelde,c1,c2;
     Button knop;
-    String s,tekst,b;
+    String s,tekst;
 
     public void init(){
         setSize(800, 800);

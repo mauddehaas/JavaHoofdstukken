@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e615e91b-7c7f-4e71-aebb-87673b36af2e" name="Default" comment="committen">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HO8/Rekenmachine.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HO5/Proberen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HO8/proberen.java" afterPath="" />
+    <list default="true" id="e615e91b-7c7f-4e71-aebb-87673b36af2e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HO11/PraktijkOpdracht.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HO11/Schaakbord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HO11/Schaakbord2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HO5/Staafdiagram.java" afterPath="$PROJECT_DIR$/src/HO5/Staafdiagram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HO8/MannenVrouwen.java" afterPath="$PROJECT_DIR$/src/HO8/MannenVrouwen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HO10/Cijfers.java" afterPath="$PROJECT_DIR$/src/HO10/Cijfers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HO10/HoogsteGetal.java" afterPath="$PROJECT_DIR$/src/HO10/HoogsteGetal.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,47 +17,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="3">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="Knop.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/HO8/Knop.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="475">
-                    <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-                    <folding>
-                      <element signature="imports" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="Rekenmachine.java" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/HO8/Rekenmachine.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="288">
-                    <caret line="46" column="45" lean-forward="true" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-                    <folding>
-                      <element signature="imports" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MannenVrouwen.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HO8/MannenVrouwen.java">
+      <file leaf-file-name="TafelDrie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HO11/TafelDrie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="59" column="52" lean-forward="true" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,14 +31,82 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Staafdiagram.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HO5/Staafdiagram.java">
+      <file leaf-file-name="Vierkant.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HO11/Vierkant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cirkel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HO11/Cirkel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroteCirkel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HO11/GroteCirkel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HonderdCirkels.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HO11/HonderdCirkels.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Schaakbord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HO11/Schaakbord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Schaakbord2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HO11/Schaakbord2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PraktijkOpdracht.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HO11/PraktijkOpdracht.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,8 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/demo/EersteJavaKlasse.java" />
-        <option value="$PROJECT_DIR$/src/demo/Show.java" />
         <option value="$PROJECT_DIR$/src/H4/driehoek.java" />
         <option value="$PROJECT_DIR$/src/H4/Show.java" />
         <option value="$PROJECT_DIR$/src/H4/Naam.java" />
@@ -128,6 +160,28 @@
         <option value="$PROJECT_DIR$/src/HO5/Staafdiagram.java" />
         <option value="$PROJECT_DIR$/src/ffff.java" />
         <option value="$PROJECT_DIR$/src/HO8/Rekenmachine.java" />
+        <option value="$PROJECT_DIR$/src/HO8/MetBtw.java" />
+        <option value="$PROJECT_DIR$/src/HO10/HoogsteGetal.java" />
+        <option value="$PROJECT_DIR$/src/HO10/HoogsteLaagsteGetal.java" />
+        <option value="$PROJECT_DIR$/src/HO10/mhgc.java" />
+        <option value="$PROJECT_DIR$/src/HO10/MaandDag.java" />
+        <option value="$PROJECT_DIR$/src/HO10/SchrikkelJaar.java" />
+        <option value="$PROJECT_DIR$/src/HO10/Cijfers.java" />
+        <option value="$PROJECT_DIR$/src/HO10/CijfersOnvoldoende.java" />
+        <option value="$PROJECT_DIR$/src/HO11/verticalelijnen.java" />
+        <option value="$PROJECT_DIR$/src/HO11/kjg.java" />
+        <option value="$PROJECT_DIR$/src/HO11/VerticaleLijnen.java" />
+        <option value="$PROJECT_DIR$/src/HO11/TienTotTwintig.java" />
+        <option value="$PROJECT_DIR$/src/HO11/hh.java" />
+        <option value="$PROJECT_DIR$/src/HO11/RijVoorgangers.java" />
+        <option value="$PROJECT_DIR$/src/HO11/TafelDrie.java" />
+        <option value="$PROJECT_DIR$/src/HO11/Vierkant.java" />
+        <option value="$PROJECT_DIR$/src/HO11/Cirkel.java" />
+        <option value="$PROJECT_DIR$/src/HO11/GroteCirkel.java" />
+        <option value="$PROJECT_DIR$/src/HO11/HonderdCirkels.java" />
+        <option value="$PROJECT_DIR$/src/HO11/PraktijkOpdracht.java" />
+        <option value="$PROJECT_DIR$/src/HO11/Schaakbord.java" />
+        <option value="$PROJECT_DIR$/src/HO11/Schaakbord2.java" />
       </list>
     </option>
   </component>
@@ -138,9 +192,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="534" />
-    <option name="y" value="-38" />
-    <option name="width" value="1622" />
+    <option name="x" value="1768" />
+    <option name="width" value="1444" />
     <option name="height" value="1732" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -161,8 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,26 +231,15 @@
               <item name="first-repository" type="b2602c69:ProjectViewProjectNode" />
               <item name="first-repository" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HO5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first-repository" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first-repository" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HO8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first-repository" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first-repository" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HO1234" type="462c0819:PsiDirectoryNode" />
+              <item name="HO11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,10 +262,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.Rekenmachine">
-    <configuration name="Dobbelsteen" type="Applet" factoryName="Applet" temporary="true">
+  <component name="RunManager" selected="Applet.Schaakbord2">
+    <configuration name="Cirkel" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="HO1234.Dobbelsteen" />
+      <option name="MAIN_CLASS_NAME" value="HO11.Cirkel" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -232,9 +273,19 @@
         <option name="moduleName" value="first-repository" />
       </module>
     </configuration>
-    <configuration name="Ellips" type="Applet" factoryName="Applet" temporary="true">
+    <configuration name="GroteCirkel" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="HO1234.Ellips" />
+      <option name="MAIN_CLASS_NAME" value="HO11.GroteCirkel" />
+      <option name="WIDTH" value="800" />
+      <option name="HEIGHT" value="600" />
+      <option name="POLICY_FILE" value="file://$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module name="first-repository">
+        <option name="moduleName" value="first-repository" />
+      </module>
+    </configuration>
+    <configuration name="HonderdCirkels" type="Applet" factoryName="Applet" temporary="true">
+      <option name="HTML_USED" value="false" />
+      <option name="MAIN_CLASS_NAME" value="HO11.HonderdCirkels" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -242,9 +293,9 @@
         <option name="moduleName" value="first-repository" />
       </module>
     </configuration>
-    <configuration name="RechthoekHuisVlag" type="Applet" factoryName="Applet" temporary="true">
+    <configuration name="Schaakbord" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="HO1234.RechthoekHuisVlag" />
+      <option name="MAIN_CLASS_NAME" value="HO11.Schaakbord" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -252,19 +303,9 @@
         <option name="moduleName" value="first-repository" />
       </module>
     </configuration>
-    <configuration name="Rekenmachine" type="Applet" factoryName="Applet" temporary="true">
+    <configuration name="Schaakbord2" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="HO8.Rekenmachine" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="first-repository">
-        <option name="moduleName" value="first-repository" />
-      </module>
-    </configuration>
-    <configuration name="Staafdiagram" type="Applet" factoryName="Applet" temporary="true">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="HO5.Staafdiagram" />
+      <option name="MAIN_CLASS_NAME" value="HO11.Schaakbord2" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -354,19 +395,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Applet.Dobbelsteen" />
-      <item index="1" class="java.lang.String" itemvalue="Applet.Ellips" />
-      <item index="2" class="java.lang.String" itemvalue="Applet.RechthoekHuisVlag" />
-      <item index="3" class="java.lang.String" itemvalue="Applet.Staafdiagram" />
-      <item index="4" class="java.lang.String" itemvalue="Applet.Rekenmachine" />
+      <item index="0" class="java.lang.String" itemvalue="Applet.Cirkel" />
+      <item index="1" class="java.lang.String" itemvalue="Applet.GroteCirkel" />
+      <item index="2" class="java.lang.String" itemvalue="Applet.HonderdCirkels" />
+      <item index="3" class="java.lang.String" itemvalue="Applet.Schaakbord" />
+      <item index="4" class="java.lang.String" itemvalue="Applet.Schaakbord2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Applet.Rekenmachine" />
-        <item index="1" class="java.lang.String" itemvalue="Applet.Staafdiagram" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.RechthoekHuisVlag" />
-        <item index="3" class="java.lang.String" itemvalue="Applet.Ellips" />
-        <item index="4" class="java.lang.String" itemvalue="Applet.Dobbelsteen" />
+        <item index="0" class="java.lang.String" itemvalue="Applet.Schaakbord2" />
+        <item index="1" class="java.lang.String" itemvalue="Applet.Schaakbord" />
+        <item index="2" class="java.lang.String" itemvalue="Applet.HonderdCirkels" />
+        <item index="3" class="java.lang.String" itemvalue="Applet.GroteCirkel" />
+        <item index="4" class="java.lang.String" itemvalue="Applet.Cirkel" />
       </list>
     </recent_temporary>
   </component>
@@ -398,49 +439,14 @@
       <workItem from="1505127456416" duration="3307000" />
       <workItem from="1505198136876" duration="15232000" />
       <workItem from="1505284167069" duration="2198000" />
-      <workItem from="1505301204215" duration="1420000" />
-    </task>
-    <task id="LOCAL-00001" summary="eeste repository">
-      <created>1504092544119</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1504092544120</updated>
-    </task>
-    <task id="LOCAL-00002" summary="eerste java klasse">
-      <created>1504092687688</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1504092687688</updated>
-    </task>
-    <task id="LOCAL-00003" summary="via tooltje">
-      <created>1504104954838</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1504104954838</updated>
-    </task>
-    <task id="LOCAL-00004" summary="blauwe achtergrond">
-      <created>1504108132002</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1504108132002</updated>
-    </task>
-    <task id="LOCAL-00005" summary="blauwe achtergrond">
-      <created>1504278822669</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1504278822669</updated>
-    </task>
-    <task id="LOCAL-00006" summary="een huis met een deur een raam en een dak">
-      <created>1504288322902</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1504288322902</updated>
+      <workItem from="1505301204215" duration="4205000" />
+      <workItem from="1505377011829" duration="4552000" />
+      <workItem from="1505390998765" duration="1190000" />
+      <workItem from="1505457570315" duration="16271000" />
+      <workItem from="1505716710245" duration="1725000" />
+      <workItem from="1505730640196" duration="3326000" />
+      <workItem from="1505804741756" duration="11329000" />
+      <workItem from="1505891249184" duration="1034000" />
     </task>
     <task id="LOCAL-00007" summary="een huis met een deur een raam en een dak gekleurd">
       <created>1504288741288</created>
@@ -673,11 +679,123 @@
       <option name="project" value="LOCAL" />
       <updated>1505216681243</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="rekenmachine af!">
+      <created>1505302648129</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1505302648130</updated>
+    </task>
+    <task id="LOCAL-00041" summary="HO 8 is af">
+      <created>1505305390799</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1505305390800</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Ho10 hoogstegetal af">
+      <created>1505389794742</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1505389794743</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Ho10 hoogste en laagste getal af">
+      <created>1505390861091</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1505390861091</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Maand dag is af">
+      <created>1505458321908</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1505458321908</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Schrikkeljaar">
+      <created>1505460327367</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1505460327367</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Cijfers is af">
+      <created>1505465400491</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1505465400491</updated>
+    </task>
+    <task id="LOCAL-00047" summary="cijfer ovoldoende s af">
+      <created>1505467545421</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1505467545421</updated>
+    </task>
+    <task id="LOCAL-00048" summary="HO11 11.1 af">
+      <created>1505472069881</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1505472069881</updated>
+    </task>
+    <task id="LOCAL-00049" summary="HO11 11.2 af">
+      <created>1505472505406</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1505472505406</updated>
+    </task>
+    <task id="LOCAL-00050" summary="HO11 11.3 af">
+      <created>1505808086289</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1505808086290</updated>
+    </task>
+    <task id="LOCAL-00051" summary="HO11 11.4 af">
+      <created>1505811766475</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1505811766475</updated>
+    </task>
+    <task id="LOCAL-00052" summary="HO11 11.5 af">
+      <created>1505812617400</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1505812617400</updated>
+    </task>
+    <task id="LOCAL-00053" summary="HO11 11.6 af">
+      <created>1505813596792</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1505813596792</updated>
+    </task>
+    <task id="LOCAL-00054" summary="HO11 11.7 af">
+      <created>1505817439865</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1505817439865</updated>
+    </task>
+    <task id="LOCAL-00055" summary="HO11 11.8 af">
+      <created>1505817704796</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1505817704796</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90607000" />
+    <option name="totallyTimeSpent" value="132819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
@@ -690,19 +808,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33068782" sideWeight="0.5069009" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3460026" sideWeight="0.49309912" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.344692" sideWeight="0.49309912" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15384616" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30456534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994709" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994709" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -718,22 +836,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="eerste java klasse" />
-    <MESSAGE value="via tooltje" />
-    <MESSAGE value="blauwe achtergrond" />
-    <MESSAGE value="een huis met een deur een raam en een dak" />
-    <MESSAGE value="een huis met een deur een raam en een dak gekleurd" />
-    <MESSAGE value="stoplicht" />
-    <MESSAGE value="dobbelsteen toegevoegd" />
-    <MESSAGE value="diagram is af" />
-    <MESSAGE value="ellips is af" />
-    <MESSAGE value="begin figuren" />
-    <MESSAGE value="figuren afgerond" />
-    <MESSAGE value="inleveren" />
-    <MESSAGE value="staafdiagram met de kg" />
-    <MESSAGE value="staafdiagram met de kg oplossen" />
-    <MESSAGE value="staafdiagra is af" />
-    <MESSAGE value="berekenen is af aleen geen , getal" />
     <MESSAGE value="berekenen is af" />
     <MESSAGE value="Positief + positief= Negatief" />
     <MESSAGE value="commit" />
@@ -743,7 +845,23 @@
     <MESSAGE value="committen" />
     <MESSAGE value="tekstvakken af" />
     <MESSAGE value="MannenVrouwen is af" />
-    <option name="LAST_COMMIT_MESSAGE" value="MannenVrouwen is af" />
+    <MESSAGE value="rekenmachine af!" />
+    <MESSAGE value="HO 8 is af" />
+    <MESSAGE value="Ho10 hoogstegetal af" />
+    <MESSAGE value="Ho10 hoogste en laagste getal af" />
+    <MESSAGE value="Maand dag is af" />
+    <MESSAGE value="Schrikkeljaar" />
+    <MESSAGE value="Cijfers is af" />
+    <MESSAGE value="cijfer ovoldoende s af" />
+    <MESSAGE value="HO11 11.1 af" />
+    <MESSAGE value="HO11 11.2 af" />
+    <MESSAGE value="HO11 11.3 af" />
+    <MESSAGE value="HO11 11.4 af" />
+    <MESSAGE value="HO11 11.5 af" />
+    <MESSAGE value="HO11 11.6 af" />
+    <MESSAGE value="HO11 11.7 af" />
+    <MESSAGE value="HO11 11.8 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="HO11 11.8 af" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -752,137 +870,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Staafdiagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO5/Staafdiagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Staafdiagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="41" column="36" lean-forward="true" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Figuren.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Staafdiagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="51" column="44" lean-forward="false" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Figuren.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Staafdiagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="51" column="44" lean-forward="false" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/RechthoekHuisVlag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Stoplicht.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Naam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Dobbelsteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Figuren.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/RechthoekHuisVlag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Stoplicht.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Naam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Show.java" />
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Naam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO5/Figuren2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Stoplicht.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Show.java" />
-    <entry file="file://$PROJECT_DIR$/src/HO1234/Show.java" />
-    <entry file="file://$PROJECT_DIR$/src/demo/EersteJavaKlasse.java" />
-    <entry file="file://$PROJECT_DIR$/src/demo/test123.java" />
     <entry file="file://$PROJECT_DIR$/src/demo/EersteJavaKlasse.java" />
     <entry file="file://$PROJECT_DIR$/src/H4/driehoek.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/Container.java">
@@ -972,17 +959,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO6/UurDagJaar.java">
+    <entry file="file://$PROJECT_DIR$/src/HO8/Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/HO8/Proberen.java" />
+    <entry file="file://$PROJECT_DIR$/src/ffff.java" />
+    <entry file="file://$PROJECT_DIR$/src/HO5/Staafdiagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="-170">
+          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO6/GemiddeldeBerekenen.java">
+    <entry file="file://$PROJECT_DIR$/src/HO10/mhgc.java" />
+    <entry file="file://$PROJECT_DIR$/src/HO10/MaandDag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="1105">
+          <caret line="65" column="53" lean-forward="false" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1379">
+          <caret line="579" column="0" lean-forward="false" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/TextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="616" column="0" lean-forward="false" selection-start-line="616" selection-start-column="0" selection-end-line="616" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/kjg.java" />
+    <entry file="file://$PROJECT_DIR$/src/HO10/Cijfers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO10/HoogsteLaagsteGetal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO10/HoogsteGetal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO10/CijfersOnvoldoende.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="61" column="26" lean-forward="false" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO10/SchrikkelJaar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/hh.java" />
+    <entry file="file://$PROJECT_DIR$/src/HO6/UurDagJaar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -993,57 +1042,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO6/IntPsitiefNegatief.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO8/Button.java" />
-    <entry file="file://$PROJECT_DIR$/src/HO8/Proberen.java" />
     <entry file="file://$PROJECT_DIR$/src/HO8/Knop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO5/Staafdiagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HO8/Rekenmachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="46" column="45" lean-forward="true" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ffff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HO8/MannenVrouwen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="59" column="52" lean-forward="true" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
+        <state relative-caret-position="1054">
+          <caret line="64" column="51" lean-forward="false" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO8/MetBtw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO8/Rekenmachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="52" column="37" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO6/GemiddeldeBerekenen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO6/IntPsitiefNegatief.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/RijVoorgangers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/VerticaleLijnen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/TafelDrie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/Vierkant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/TienTotTwintig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/GroteCirkel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/HonderdCirkels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/Cirkel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/PraktijkOpdracht.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/Schaakbord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HO11/Schaakbord2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
