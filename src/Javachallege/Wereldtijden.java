@@ -5,11 +5,8 @@ import java.applet.*;
 import java.awt.event.*;
 
 public class Wereldtijden extends Applet {
-    Label label;
-    TextField tekstvak;
-    Button knop;
-    int tijdbagdad,tijdhermosillo,tijdsalvador,tijdnuuk,tijd;
-    String s;
+    private TextField tekstvak;
+    private int tijdbagdad,tijdhermosillo,tijdsalvador,tijdnuuk,tijd;
     //tijd nuuk is -4uur
     //tijd salvador is -5uur
     //tijd bagdad is +1
@@ -17,9 +14,9 @@ public class Wereldtijden extends Applet {
 
 
     public void init(){
-        label=new Label("Voer een uur in");
+        Label label = new Label("Voer een uur in");
         tekstvak=new TextField(15);
-        knop=new Button("Toon");
+        Button knop = new Button("Toon");
         knop.addActionListener(new KnopListener());
         add(label);
         add(tekstvak);
@@ -46,7 +43,7 @@ public class Wereldtijden extends Applet {
     }
     class KnopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            s=tekstvak.getText();
+            String s = tekstvak.getText();
             tijd=Integer.parseInt(s);
 
 
