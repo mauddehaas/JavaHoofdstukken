@@ -13,7 +13,7 @@ public class namentelefoon extends Applet implements ActionListener {
     boolean geklikt;
     boolean fout;
 
-    @Override
+   
     public void init() {
         naamfield = new TextField("", 20);
         telefoonfield = new TextField("", 20);
